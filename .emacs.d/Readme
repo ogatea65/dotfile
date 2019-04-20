@@ -1,0 +1,9 @@
+drwxr-xr-x  32 kenta  staff  1088  2 28 16:53 auto-install
+drwxr-xr-x  47 kenta  staff  1598  8 15 13:33 auto-save-list
+drwxr-xr-x   2 kenta  staff    68  8 15 13:33 conf 分割設定用ディレクトリ
+drwxr-xr-x   5 kenta  staff   170  7 28 17:03 elisp Elispインストールディレクトリ
+drwxrwxrwx   9 kenta  staff   306  2 28 16:47 elpa ELPA用のディレクトリ
+drwxr-xr-x   2 kenta  staff    68  8 15 13:34 etc etc用のディレクトリ
+drwxr-xr-x   2 kenta  staff    68  8 15 13:35 info infoファイル用ディレクトリ
+-rw-r--r--   1 kenta  staff  4909  8 15 13:34 init.el 設定ファイル
+drwxr-xr-x   2 kenta  staff    68  8 15 13:34 public_repos 公開リポジトリから拡張機能をチェクアウトするディレクトリ
